@@ -1,2 +1,3 @@
 # Programa-o-de-Dispositivos-Móveis
-Atividades Acadêmicas
+
+Prof° Henrique Y. Shishido
